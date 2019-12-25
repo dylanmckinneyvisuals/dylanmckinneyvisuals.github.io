@@ -411,8 +411,8 @@ blockquote small {
     margin-top: -15px;
 }
 .footer {
-    background: #1e1f20;
-    color: #b9b9b9;
+    background: #ffffff;
+    color: #5c5c5c;
 }
 .footer a {
     color: #b9b9b9
@@ -421,7 +421,7 @@ blockquote small {
     color: #57a4a4
 }
 .sub-footer {
-    background: #1a1a1b;
+    background: #ffffff;
     padding-top: 35px;
     padding-bottom: 35px;
 }
@@ -3385,7 +3385,7 @@ textarea {
 /*-----------------------------------------------------------------------------------*/
 @media (min-width: 1270px) { 
 	.box-layout {
-	    background: transparent url(style/images/bg/bg17.jpg) repeat fixed;
+	    background: transparent url(style/images/bg/bg1.jpg) repeat fixed;
 	    padding: 0;
 	}
 	.box-layout .body-wrapper {
